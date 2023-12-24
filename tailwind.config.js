@@ -10,13 +10,13 @@ export default {
       // => @media (min-width: 547px) { ... }
 
       lg: "768px",
-      // => @media (min-width: 1024px) { ... }
+      // => @media (min-width: 768px) { ... }
 
       xl: "1024px",
-      // => @media (min-width: 1280px) { ... }
+      // => @media (min-width: 1024px) { ... }
 
-      "2xl": "1680px",
-      // => @media (min-width: 1536px) { ... }
+      "2xl": "1200px",
+      // => @media (min-width: 1200px) { ... }
     },
     colors: {
       Tesla_black: "#171A20CC",
